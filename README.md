@@ -1,4 +1,4 @@
-# Chat - AI
+#AI-Chat
 
 AI Chat App using Generative Language Client API
 
